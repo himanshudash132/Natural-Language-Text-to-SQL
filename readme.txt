@@ -1,0 +1,10 @@
+Goal - Text(natural language) to sql LLM Application
+
+prompt -->LLM-->Gemini Pro-->Query-->Sql Database--> Response
+
+Implementation
+
+1. SQLlite ---Insert some reconds--python programming
+2. LLM Application-->Gemini pro--->Sql Database
+
+[makersuite.google.com/app/apikey]
