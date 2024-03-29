@@ -8,3 +8,7 @@ Implementation
 2. LLM Application-->Gemini pro--->Sql Database
 
 [makersuite.google.com/app/apikey]
+
+https://github.com/himanshudash132/Natural-Language-Text-to-SQL/blob/main/1.png
+
+![Screenshot](https://github.com/himanshudash132/Natural-Language-Text-to-SQL/blob/main/1.png)
