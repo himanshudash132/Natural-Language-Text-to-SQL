@@ -7,7 +7,7 @@
 # 1. SQLlite ---Insert some reconds--python programming
 #  2. LLM Application-->Gemini pro--->Sql Database
 
-# [makersuite.google.com/app/apikey]
+# Trough this make your own api ---> [makersuite.google.com/app/apikey]
 
 # deployed link ---> [https://himanshudash132natural-language-to-sql.streamlit.app/]
 
