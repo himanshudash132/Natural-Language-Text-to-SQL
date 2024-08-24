@@ -9,6 +9,8 @@
 
 # [makersuite.google.com/app/apikey]
 
+# deployed link ---> [https://himanshudash132natural-language-to-sql.streamlit.app/]
+
 https://github.com/himanshudash132/Natural-Language-Text-to-SQL/blob/main/1.png
 
 ![Screenshot](https://github.com/himanshudash132/Natural-Language-Text-to-SQL/blob/main/1.png)
